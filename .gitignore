@@ -335,3 +335,6 @@ vs-chromium-project.txt
 
 # Ignore the default results output directory for tools/run-swarmed.py
 /results
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
